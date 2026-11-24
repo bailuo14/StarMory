@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="cover2-B.png" width="100%" alt="StarMory 星忆">
+<img src="cover3-starmory.png" width="100%" alt="StarMory 星忆">
 
 # StarMory（星忆）
 
